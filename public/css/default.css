@@ -1,4 +1,29 @@
+/* Fundo padrão */
 body {
-    font-family: sans-serif;
-    text-align: center;
+    background-color: #f8f9fa;
+}
+
+/* Estilo dropdown */
+.dropdown-menu {
+    background-color: #343a40;
+}
+.dropdown-menu a {
+    color: #fff;
+}
+.dropdown-menu a:hover {
+    background-color: #495057;
+}
+
+/* Slider */
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+.carousel {
+    background-color: #000000;
+}
+
+/* Rodapé */
+footer {
+    margin-top: 40px;
 }
